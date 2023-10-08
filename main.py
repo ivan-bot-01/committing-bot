@@ -1,6 +1,8 @@
 import os
 import time
 
+os.system(f'git config user.name "Ivan Bot"')
+os.system(f'git config user.email "147301347+ivan-bot-01@users.noreply.github.com"')
 
 commit_count = -1
 
